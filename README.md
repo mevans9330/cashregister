@@ -1,0 +1,2 @@
+# cashregister
+Python cash register
